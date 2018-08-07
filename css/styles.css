@@ -1,7 +1,14 @@
 body {
   text-align: center;
+
 }
 
+h1 {
+  margin: 30px;
+}
+h3 {
+  margin-top: 60px;
+}
 .answer-hidden {
   display: none;
 }
@@ -12,4 +19,12 @@ body {
   height: 200px;
   background-color: #C1E5FF;
   overflow-x: hidden;
+}
+
+.col-md-3:hover {
+  cursor: pointer;
+}
+
+p {
+  margin-top: 30px;
 }
